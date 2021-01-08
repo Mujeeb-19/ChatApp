@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107370644073",
+    "firebase_url": "https://flash-chat-b4076.firebaseio.com",
+    "project_id": "flash-chat-b4076",
+    "storage_bucket": "flash-chat-b4076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107370644073:android:0a7c93e501e4c4e7c018f8",
+        "android_client_info": {
+          "package_name": "co.Mujeeb.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107370644073-duvo20qlnll64fv32kt13grdsb644vej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw7efp8TdkZlotIGrk8FOEf_5VttSfB-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107370644073-duvo20qlnll64fv32kt13grdsb644vej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
